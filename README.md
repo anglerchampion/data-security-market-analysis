@@ -89,13 +89,13 @@ The screen is corroborated by the companies' own disclosures. Rubrik's FY2026 10
 
 Two of the three companies report revenue growth that does not reflect underlying demand, in opposite directions.
 
-**Rubrik -- inflated.** Before FY2026, Rubrik sold hardware appliances directly, and some customers held rights to free next-generation replacement hardware. Rubrik offered Subscription Credits in exchange for relinquishing those rights, and moved appliance sales to contract manufacturers. These credits are accounted for as material rights: they sit in deferred revenue and are recognised as revenue when a customer either exercises or forfeits them — with no corresponding new sale.
+**Rubrik - inflated.** Before FY2026, Rubrik sold hardware appliances directly, and some customers held rights to free next-generation replacement hardware. Rubrik offered Subscription Credits in exchange for relinquishing those rights, and moved appliance sales to contract manufacturers. These credits are accounted for as material rights: they sit in deferred revenue and are recognised as revenue when a customer either exercises or forfeits them — with no corresponding new sale.
 
 This inflated FY2026 reported revenue growth to 48.9%. In Q4 FY2026, $18m of revenue came from material rights; excluding it, quarterly growth was 43% rather than the reported 46%. Rubrik states the benefit continues through fiscal 2027, reducing significantly sequentially.
 
-**Varonis -- suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 2026, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m -- a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
+**Varonis - suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 2026, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m -- a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
 
-**Commvault -- clean.** Commvault states its transition from perpetual licensing to subscription is substantially complete, so its reported revenue requires no adjustment. It is nonetheless the slowest grower.
+**Commvault - clean.** Commvault states its transition from perpetual licensing to subscription is substantially complete, so its reported revenue requires no adjustment. It is nonetheless the slowest grower.
 
 **Consequence for the model:** subscription ARR is unaffected by material rights recognition, so Rubrik is modelled on ARR and converted to revenue at the final step. Varonis does not disclose ARR on a consistent historical basis, but its reported revenue carries no recognition distortion — the SaaS transition is a mix shift between disclosed revenue lines, visible directly in the income statement — so it is modelled on revenue.
 
