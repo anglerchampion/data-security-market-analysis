@@ -93,7 +93,7 @@ Two of the three companies report revenue growth that does not reflect underlyin
 
 This inflated FY2026 reported revenue growth to 48.9%. In Q4 FY2026, $18m of revenue came from material rights; excluding it, quarterly growth was 43% rather than the reported 46%. Rubrik states the benefit continues through fiscal 2027, reducing significantly sequentially.
 
-**Varonis - suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 2026, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m -- a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
+**Varonis - suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 2026, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m - a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
 
 **Commvault - clean.** Commvault states its transition from perpetual licensing to subscription is substantially complete, so its reported revenue requires no adjustment. It is nonetheless the slowest grower.
 
