@@ -1,4 +1,4 @@
-# Data Security Sector -- Revenue Projection
+# Data Security Sector - Revenue Projection
 
 Fundamentals-based screening and three-year revenue projection for the publicly listed data security sector, built entirely from SEC filings and company earnings releases.
 
