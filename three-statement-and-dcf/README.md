@@ -125,10 +125,10 @@ python build_3s.py
 ## Repository structure
 
 ```
-three-statement-dcf/
+three-statement-and-dcf/
 ├── README.md              This file
 ├── rubrik_3s_dcf.xlsx     Model workbook, live formulas
-└── build_3s.py            Script that builds the workbook
+└── 3s.py            Script that builds the workbook
 ```
 
 ## Sources
