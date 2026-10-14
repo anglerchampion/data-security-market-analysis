@@ -1,6 +1,6 @@
 # Data Security Sector - Revenue Projection
 
-Fundamentals-based screening and three-year revenue projection for the publicly listed data security sector, built entirely from SEC filings and company earnings releases.
+Fundamentals-based screening and three-year revenue projection for the publicly listed data security sector, with every company figure taken from SEC filings and company earnings releases and market sizing from Mordor Intelligence.
 
 *Academic exercise. Not investment advice. Figures sourced from public filings as of August 2026.*
 
