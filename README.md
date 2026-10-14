@@ -38,13 +38,13 @@ Filtering the data security sector on listing, independence, and revenue-disclos
 
 | Company | Projection period | 3-year revenue CAGR | Model basis |
 |---|---|---|---|
-| **Rubrik (RBRK)** | FY2027–FY2030 | **22.6%** | ARR growth-decay, converted to revenue |
-| Varonis (VRNS) | FY2026–FY2029 | 19.1% | Revenue growth-decay |
-| Commvault (CVLT) | FY2027–FY2030 | 10.2% | Flat guided growth |
+| **Rubrik (RBRK)** | FY27–FY30 | **22.6%** | ARR growth-decay, converted to revenue |
+| Varonis (VRNS) | FY26–FY29 | 19.1% | Revenue growth-decay |
+| Commvault (CVLT) | FY27–FY30 | 10.2% | Flat guided growth |
 
 Fiscal years differ across companies; periods are not calendar-aligned.
 
-**Recommendation: Rubrik**, ranking first on both raw growth and growth quality. Its subscription ARR growth requires no adjustment for conversions or currency, whereas Varonis's headline SaaS growth substantially reflects migration of existing customers, and Commvault is guiding to growth below the estimated market rate. Rubrik's projection is supported by $2.44bn of remaining performance obligations as of 30 April 2026, approximately 53% of which is expected to be recognised within twelve months.
+**Recommendation: Rubrik**, ranking first on both raw growth and growth quality. Its subscription ARR growth requires no adjustment for conversions or currency, whereas Varonis's headline SaaS growth substantially reflects migration of existing customers, and Commvault is guiding to growth below the estimated market rate. Rubrik's projection is supported by $2.44bn of remaining performance obligations as of 30 April 26, approximately 53% of which is expected to be recognised within twelve months.
 
 ## Scope definition
 
@@ -57,7 +57,7 @@ Both Rubrik and Varonis describe themselves in filings as data security companie
 
 ## Screening criteria
 
-Applied as of August 2026. A company had to meet all four.
+Applied as of August 26. A company had to meet all four.
 
 **1. High tech sector.**
 
@@ -85,17 +85,17 @@ Companies with separately disclosed data security revenue account for approximat
 
 **Remaining: Rubrik, Varonis, Commvault.**
 
-The screen is corroborated by the companies' own disclosures. Rubrik's FY2026 10-K names Commvault, Dell EMC, IBM, Veeam and Cohesity as its main competitors; Commvault's FY2026 10-K names Rubrik, Cohesity and Veeam. Every company named by either fails one of the criteria above.
+The screen is corroborated by the companies' own disclosures. Rubrik's FY26 10-K names Commvault, Dell EMC, IBM, Veeam and Cohesity as its main competitors; Commvault's FY26 10-K names Rubrik, Cohesity and Veeam. Every company named by either fails one of the criteria above.
 
 ## The core problem: reported growth is distorted
 
 Two of the three companies report revenue growth that does not reflect underlying demand, in opposite directions.
 
-**Rubrik - inflated.** Before FY2026, Rubrik sold hardware appliances directly, and some customers held rights to free next-generation replacement hardware. Rubrik offered Subscription Credits in exchange for relinquishing those rights, and moved appliance sales to contract manufacturers. These credits are accounted for as material rights: they sit in deferred revenue and are recognised as revenue when a customer either exercises or forfeits them, with no corresponding new sale.
+**Rubrik - inflated.** Before FY26, Rubrik sold hardware appliances directly, and some customers held rights to free next-generation replacement hardware. Rubrik offered Subscription Credits in exchange for relinquishing those rights, and moved appliance sales to contract manufacturers. These credits are accounted for as material rights: they sit in deferred revenue and are recognised as revenue when a customer either exercises or forfeits them, with no corresponding new sale.
 
-This inflated FY2026 reported revenue growth to 48.5%. In Q4 FY2026, $18m of revenue came from material rights; excluding it, quarterly growth was 43% rather than the reported 46%. Rubrik states the benefit continues through fiscal 2027, reducing significantly sequentially.
+This inflated FY26 reported revenue growth to 48.5%. In Q4 FY26, $18m of revenue came from material rights; excluding it, quarterly growth was 43% rather than the reported 46%. Rubrik states the benefit continues through fiscal 2027, reducing significantly sequentially.
 
-**Varonis - suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 2026, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m - a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
+**Varonis - suppressed.** Varonis is migrating customers from term licences to SaaS. In Q2 26, SaaS revenue grew 62.2% while total revenue grew only 18.3%, because term licence revenue fell from $32.4m to $4.2m and maintenance from $13.9m to $4.1m - a combined $38m decline against $66m of SaaS growth. Reported SaaS ARR growth of 52% falls to 25% excluding conversions.
 
 **Commvault - clean.** Commvault states its transition from perpetual licensing to subscription is substantially complete, so its reported revenue requires no adjustment. It is nonetheless the slowest grower.
 
@@ -124,7 +124,7 @@ Where:
 | Parameter | Value | Basis |
 |---|---|---|
 | Terminal growth | 17.12% | Sector market CAGR (Mordor Intelligence), flat market share assumption |
-| Decay factor (k) | 0.75 | Derived from Rubrik's filed exit subscription ARR, FY2024 to FY2026 |
+| Decay factor (k) | 0.75 | Derived from Rubrik's filed exit subscription ARR, FY24 to FY26 |
 
 **ARR-to-revenue conversion (Rubrik only).** ARR is a point-in-time snapshot at fiscal year end; revenue accumulates across the year. Revenue therefore tracks *average* ARR, approximated by the midpoint of opening and closing:
 
@@ -136,12 +136,12 @@ The ratio is calibrated against the two years where both figures are known:
 
 | | Midpoint ARR | Revenue | Ratio |
 |---|---|---|---|
-| FY2026 | $1,277.3m | $1,316.2m | 1.030 |
-| FY2027 (guidance) | $1,648.0m | $1,602m | 0.972 |
+| FY26 | $1,277.3m | $1,316.2m | 1.030 |
+| FY27 (guidance) | $1,648.0m | $1,602m | 0.972 |
 
-FY2026 runs above 1.00 because material rights inflated revenue that year. **0.97** (0.972 rounded) is used, reflecting the cleaner FY2027 relationship, and is the more conservative of the two.
+FY26 runs above 1.00 because material rights inflated revenue that year. **0.97** (0.972 rounded) is used, reflecting the cleaner FY27 relationship, and is the more conservative of the two.
 
-**Commvault exception.** The decay framework assumes growth *above* the market rate converging *downward* toward it. Commvault's guided FY2027 growth of 10.2% already sits below the 17.12% terminal rate, so there is no gap to decay. Growth is held flat rather than converged upward, as convergence would imply a market share recovery not supported by current guidance.
+**Commvault exception.** The decay framework assumes growth *above* the market rate converging *downward* toward it. Commvault's guided FY27 growth of 10.2% already sits below the 17.12% terminal rate, so there is no gap to decay. Growth is held flat rather than converged upward, as convergence would imply a market share recovery not supported by current guidance.
 
 ## Deriving the decay factor
 
@@ -149,10 +149,10 @@ The decay factor is estimated from Rubrik's own disclosed exit subscription ARR,
 
 | FY (ends 31 Jan) | Exit subscription ARR | Growth | Gap above 17.12% |
 |---|---|---|---|
-| 2024 | $784.0m | - | - |
-| 2025 | $1,092.6m | 39.4% | 22.24pp |
-| 2026 | $1,462.1m | 33.8% | 16.70pp |
-| 2027 (guided) | $1,834m | 25.4% | 8.32pp |
+| 24 | $784.0m | - | - |
+| 25 | $1,092.6m | 39.4% | 22.24pp |
+| 26 | $1,462.1m | 33.8% | 16.70pp |
+| 27 (guided) | $1,834m | 25.4% | 8.32pp |
 
 ```
 k = 16.70 ÷ 22.24 = 0.751 ≈ 0.75
@@ -160,7 +160,7 @@ k = 16.70 ÷ 22.24 = 0.751 ≈ 0.75
 
 The gap above terminal retained 75% of its size year over year.
 
-**Why guidance is not used to derive k.** The FY2026 to FY2027 step implies k ≈ 0.50, a materially faster decay. Guidance is typically set conservatively, and Rubrik has historically beaten it. Using it would build management's caution into the model as if it were observed deceleration. It is instead used as the bear case.
+**Why guidance is not used to derive k.** The FY26 to FY27 step implies k ≈ 0.50, a materially faster decay. Guidance is typically set conservatively, and Rubrik has historically beaten it. Using it would build management's caution into the model as if it were observed deceleration. It is instead used as the bear case.
 
 **Scenario range for Rubrik:**
 
@@ -174,47 +174,47 @@ The narrow spread indicates the projection is driven primarily by the contracted
 
 ## Worked example
 
-Rubrik, FY2027 to FY2028, showing every step.
+Rubrik, FY27 to FY28, showing every step.
 
-**Starting point (FY2027, company guidance):** exit ARR $1,834m, revenue $1,602m, ARR growth 25.4% ($1,834m ÷ $1,462.1m − 1).
+**Starting point (FY27, company guidance):** exit ARR $1,834m, revenue $1,602m, ARR growth 25.4% ($1,834m ÷ $1,462.1m − 1).
 
-**Step 1: FY2028 ARR growth rate**
+**Step 1: FY28 ARR growth rate**
 
 ```
-Gap above terminal in FY2027 = 25.44% − 17.12% = 8.32pp
+Gap above terminal in FY27 = 25.44% − 17.12% = 8.32pp
 Decayed gap                  = 8.32 × 0.75     = 6.24pp
-FY2028 growth                = 17.12% + 6.24%  = 23.36%
+FY28 growth                = 17.12% + 6.24%  = 23.36%
 ```
 
-**Step 2: FY2028 exit ARR**
+**Step 2: FY28 exit ARR**
 
 ```
 1,834 × 1.2336 = $2,262m
 ```
 
-**Step 3: FY2028 average ARR**
+**Step 3: FY28 average ARR**
 
 ```
 (1,834 + 2,262) ÷ 2 = $2,048m
 ```
 
-**Step 4: FY2028 revenue**
+**Step 4: FY28 revenue**
 
 ```
 2,048 × 0.97 = $1,987m
 ```
 
-**Step 5: FY2028 revenue growth**
+**Step 5: FY28 revenue growth**
 
 ```
 1,987 ÷ 1,602 − 1 = 24.0%
 ```
 
-**Note on the FY2028 revenue growth step-up.** FY2027 revenue growth of 21.7% is measured against an FY2026 base inflated by material rights, which depresses it. FY2028 is the first year measured against a substantially cleaner base, so growth reverts to tracking underlying ARR growth before resuming its decline. Subscription ARR growth declines monotonically throughout (33.8%, 25.4%, 23.4%, 21.8%, 20.6%), which is why the projection is built on ARR.
+**Note on the FY28 revenue growth step-up.** FY27 revenue growth of 21.7% is measured against an FY26 base inflated by material rights, which depresses it. FY28 is the first year measured against a substantially cleaner base, so growth reverts to tracking underlying ARR growth before resuming its decline. Subscription ARR growth declines monotonically throughout (33.8%, 25.4%, 23.4%, 21.8%, 20.6%), which is why the projection is built on ARR.
 
 ## Spreadsheet formulas
 
-To rebuild the model from scratch. Inputs in column B, projection rows starting at row 7 with FY2027 as the base year in row 6.
+To rebuild the model from scratch. Inputs in column B, projection rows starting at row 7 with FY27 as the base year in row 6.
 
 **Inputs:**
 
@@ -223,9 +223,9 @@ To rebuild the model from scratch. Inputs in column B, projection rows starting 
 | B1 | `0.1712`: terminal growth |
 | B2 | `0.75`: decay factor k |
 | B3 | `0.97`: revenue / average-ARR ratio |
-| C6 | `1834`: FY2027 exit ARR |
-| D6 | `=1834/1462.092-1`: FY2027 ARR growth (25.44%) |
-| E6 | `1602`: FY2027 revenue |
+| C6 | `1834`: FY27 exit ARR |
+| D6 | `=1834/1462.092-1`: FY27 ARR growth (25.44%) |
+| E6 | `1602`: FY27 revenue |
 
 **Paste into row 7, then fill down to rows 8 and 9:**
 
@@ -250,21 +250,21 @@ The workbook in `model/` implements this across all three companies, with every 
 
 ### Rubrik, Inc. (NASDAQ: RBRK)
 
-Listed April 2024. Fiscal year ends 31 January. Describes itself as a security and AI operations company. Platform covers five data types (enterprise, unstructured data, identity, cloud, and SaaS applications) across four product areas: data protection, data threat analytics and data security posture management, identity security, and cyber recovery. Delivered through Rubrik Security Cloud and Rubrik Agent Cloud (generally available February 2026).
+Listed April 2024. Fiscal year ends 31 January. Describes itself as a security and AI operations company. Platform covers five data types (enterprise, unstructured data, identity, cloud, and SaaS applications) across four product areas: data protection, data threat analytics and data security posture management, identity security, and cyber recovery. Delivered through Rubrik Security Cloud and Rubrik Agent Cloud (generally available February 26).
 
 | FY (ends 31 Jan) | Basis | Exit subscription ARR | ARR growth | Revenue | Revenue growth |
 |---|---|---|---|---|---|
-| 2024 | Reported | $784.0m | - | $627.9m | - |
-| 2025 | Reported | $1,092.6m | 39.4% | $886.5m | 41.2% |
-| 2026 | Reported | $1,462.1m | 33.8% | $1,316.2m | 48.5% |
-| 2027 | Guidance | $1,834m | 25.4% | $1,602m | 21.7% |
-| 2028 | Projected | $2,262m | 23.4% | $1,987m | 24.0% |
-| 2029 | Projected | $2,756m | 21.8% | $2,434m | 22.5% |
+| 24 | Reported | $784.0m | - | $627.9m | - |
+| 25 | Reported | $1,092.6m | 39.4% | $886.5m | 41.2% |
+| 26 | Reported | $1,462.1m | 33.8% | $1,316.2m | 48.5% |
+| 27 | Guidance | $1,834m | 25.4% | $1,602m | 21.7% |
+| 28 | Projected | $2,262m | 23.4% | $1,987m | 24.0% |
+| 29 | Projected | $2,756m | 21.8% | $2,434m | 22.5% |
 | 2030 | Projected | $3,324m | 20.6% | $2,949m | 21.2% |
 
-**Three-year revenue CAGR (FY2027–FY2030): 22.6%**
+**Three-year revenue CAGR (FY27–FY30): 22.6%**
 
-Other disclosed detail: remaining performance obligations of $2.44bn as of 30 April 2026, ~53% recognisable within twelve months. Contracts run one to five years, majority three years. Q1 FY2027 revenue by region: Americas $278.9m (+37.6%), EMEA $92.2m (+42.4%), APAC $16.0m (+45.7%); total +39.0%. US revenue 69% of total. Two partners accounted for 27% and 29% of total revenue, improved from 29% and 32% a year prior.
+Other disclosed detail: remaining performance obligations of $2.44bn as of 30 April 26, ~53% recognisable within twelve months. Contracts run one to five years, majority three years. Q1 FY27 revenue by region: Americas $278.9m (+37.6%), EMEA $92.2m (+42.4%), APAC $16.0m (+45.7%); total +39.0%. US revenue 69% of total. Two partners accounted for 27% and 29% of total revenue, improved from 29% and 32% a year prior.
 
 ### Varonis Systems, Inc. (NASDAQ: VRNS)
 
@@ -272,20 +272,20 @@ Listed 2014. Fiscal year is the calendar year. Develops software for data and AI
 
 | FY (ends 31 Dec) | Basis | Revenue | Growth |
 |---|---|---|---|
-| 2024 | Reported | $551.0m | - |
-| 2025 | Reported | $623.5m | 13.2% |
-| 2026 | Guidance | $737m | 18.2% |
-| 2027 | Projected | $882m | 19.7% |
-| 2028 | Projected | $1,050m | 19.0% |
-| 2029 | Projected | $1,244m | 18.5% |
+| 24 | Reported | $551.0m | - |
+| 25 | Reported | $623.5m | 13.2% |
+| 26 | Guidance | $737m | 18.2% |
+| 27 | Projected | $882m | 19.7% |
+| 28 | Projected | $1,050m | 19.0% |
+| 29 | Projected | $1,244m | 18.5% |
 
-**Three-year revenue CAGR (FY2026–FY2029): 19.1%**
+**Three-year revenue CAGR (FY26–FY29): 19.1%**
 
 Base growth of 20.5% is the guided SaaS ARR growth excluding conversions. ARR was not projected because historical ARR is not disclosed on a consistent basis; the projection is built directly on reported revenue. Applying the ARR growth rate to revenue assumes the two grow at the same rate. Revenue is still converging toward ARR as legacy lines run off, so this may understate near-term growth.
 
 Note that reported revenue growth rises from 13.2% to a guided 18.2% because the drag from declining term licence and maintenance revenue is easing, not because demand is accelerating.
 
-Other disclosed detail: remaining performance obligations $1,096.7m at 31 December 2025 (54% within twelve months) and $1,084.5m at 30 June 2026 (57%), broadly flat and shortening in duration. FY2025 revenue by region: US 71%, EMEA 21%, Rest of World 8%. Acquisitions: SlashNext (August 2025), Cyral (2025), AllTrue.ai (February 2026), with $113.6m spent on acquisitions in H1 2026; a portion of growth is inorganic.
+Other disclosed detail: remaining performance obligations $1,096.7m at 31 December 2025 (54% within twelve months) and $1,084.5m at 30 June 2026 (57%), broadly flat and shortening in duration. FY25 revenue by region: US 71%, EMEA 21%, Rest of World 8%. Acquisitions: SlashNext (August 2025), Cyral (2025), AllTrue.ai (February 2026), with $113.6m spent on acquisitions in H1 2026; a portion of growth is inorganic.
 
 ### Commvault Systems, Inc. (NASDAQ: CVLT)
 
@@ -293,19 +293,19 @@ Listed 2006. Fiscal year ends 31 March. Provides cyber resiliency covering data 
 
 | FY (ends 31 Mar) | Basis | Revenue | Growth |
 |---|---|---|---|
-| 2024 | Reported | $839.2m | - |
-| 2025 | Reported | $995.6m | 18.6% |
-| 2026 | Reported | $1,183.7m | 18.9% |
-| 2027 | Guidance | $1,305m | 10.2% |
-| 2028 | Projected | $1,439m | 10.2% |
-| 2029 | Projected | $1,586m | 10.2% |
+| 24 | Reported | $839.2m | - |
+| 25 | Reported | $995.6m | 18.6% |
+| 26 | Reported | $1,183.7m | 18.9% |
+| 27 | Guidance | $1,305m | 10.2% |
+| 28 | Projected | $1,439m | 10.2% |
+| 29 | Projected | $1,586m | 10.2% |
 | 2030 | Projected | $1,749m | 10.2% |
 
-**Three-year revenue CAGR (FY2027–FY2030): 10.2%**
+**Three-year revenue CAGR (FY27–FY30): 10.2%**
 
 Growth was steady at 18.6% then 18.9% before guidance nearly halved it. Growth held flat per the exception described in [Method](#method).
 
-Other disclosed detail: FY2026 revenue by region: Americas $702.9m (59.4%), International $480.8m (40.6%). Approximately 47% of revenues from outside the United States; note the Americas region includes Canada and Latin America, so this differs from the segment split. Two partners accounted for approximately 32% and 11% of FY2026 revenue. Two restructuring plans initiated in fiscal 2026. Commvault is recasting revenue line items and its Subscription ARR definition from fiscal 2027, so subscription figures are not comparable year over year; total revenue is unaffected, which is why the projection uses it.
+Other disclosed detail: FY26 revenue by region: Americas $702.9m (59.4%), International $480.8m (40.6%). Approximately 47% of revenues from outside the United States; note the Americas region includes Canada and Latin America, so this differs from the segment split. Two partners accounted for approximately 32% and 11% of FY26 revenue. Two restructuring plans initiated in fiscal 2026. Commvault is recasting revenue line items and its Subscription ARR definition from fiscal 2027, so subscription figures are not comparable year over year; total revenue is unaffected, which is why the projection uses it.
 
 ## Benchmarks
 
@@ -315,14 +315,14 @@ A projection is only meaningful against the naive alternatives it improves on.
 
 | Method | Result |
 |---|---|
-| Constant FY2026 growth (33.8%) held | $4,395m |
-| Constant FY2027 growth (25.4%) held | $3,620m |
+| Constant FY26 growth (33.8%) held | $4,395m |
+| Constant FY27 growth (25.4%) held | $3,620m |
 | **This model** | **$3,324m** |
 | Market growth only, flat share (17.12%) | $2,946m |
 
 The projection falls between naive growth persistence, which assumes the company never decelerates, and pure market-rate growth, which assumes no further share gain. It therefore implies continued but decelerating share gains.
 
-**Varonis: FY2029 revenue**
+**Varonis: FY29 revenue**
 
 | Method | Result |
 |---|---|
@@ -334,9 +334,9 @@ The projection falls between naive growth persistence, which assumes the company
 
 Market size is an estimate, not reported data. No regulator or registry measures this market, so every figure is a private firm's model built from vendor surveys and assumptions about private companies. Historical-year estimates are revised between report editions, so figures from different providers or vintages cannot be combined into a series.
 
-**Primary source used throughout:** Mordor Intelligence, data security market: CY2025 $14.7bn, CY2026 $17.21bn, growing at a 17.12% CAGR to $37.93bn by CY2031.
+**Primary source used throughout:** Mordor Intelligence, data security market: CY25 $14.7bn, CY26 $17.21bn, growing at a 17.12% CAGR to $37.93bn by CY2031.
 
-**Range across providers:** published estimates for this market span roughly $15bn to $29bn for the same year, because each provider draws the category boundary differently. Some include backup and recovery infrastructure; others limit to security tooling. Narrower definitions (cloud data security, DSPM specifically) produce figures an order of magnitude smaller.
+**Range across providers:** published estimates for this market span roughly $15bn to $24bn for the same year, because each provider draws the category boundary differently. Some include backup and recovery infrastructure; others limit to security tooling. Narrower definitions (cloud data security, DSPM specifically) produce figures an order of magnitude smaller.
 
 **Sensitivity:** all three companies sit at single-digit market share under every definition, so market size is not the binding constraint on the projections over a three-year horizon. Competitive dynamics, particularly platform vendors bundling data security into broader offerings, are the more material constraint.
 
@@ -345,10 +345,10 @@ Market size is an estimate, not reported data. No regulator or registry measures
 - **Rubrik has approximately two years of public reporting.** The decay factor rests on a single observed deceleration (three year-end ARR figures) and carries no error estimate.
 - **The decay factor is derived from Rubrik** and applied to Varonis as a sector-level assumption; Varonis lacks a comparable clean multi-year ARR series.
 - **Terminal growth derives from a market estimate** with material variance across providers, as described above.
-- **FY2027 figures for Rubrik and Commvault, and FY2026 for Varonis, are company guidance**, not reported results. Rubrik has since raised its FY2027 guidance twice (to $1,880m to $1,885m exit ARR and $1,685m to $1,693m revenue in its Q2 FY2027 release); this projection keeps the March 2026 guidance it was built on.
+- **FY27 figures for Rubrik and Commvault, and FY26 for Varonis, are company guidance**, not reported results. Rubrik has since raised its FY27 guidance twice (to $1,880m to $1,885m exit ARR and $1,685m to $1,693m revenue in its Q2 FY27 release); this projection keeps the March 2026 guidance it was built on.
 - **ARR, net retention, and forward guidance are company-defined non-GAAP measures** disclosed in earnings releases, not audited figures in SEC filings.
 - **Fiscal years differ across companies** and figures are not calendar-aligned. Projection periods therefore cover different calendar spans.
-- **The FY2028 revenue-to-ARR ratio assumes material rights effects are exhausted after FY2027.** At 0.94 instead of 0.97, FY2028 revenue would be $1,925m rather than $1,987m.
+- **The FY28 revenue-to-ARR ratio assumes material rights effects are exhausted after FY27.** At 0.94 instead of 0.97, FY28 revenue would be $1,925m rather than $1,987m.
 - **Profitability, cost structure, and valuation are out of scope** per the brief. Revenue growth alone does not determine investment return.
 
 ## Repository structure
@@ -370,20 +370,20 @@ All figures sourced from SEC filings and company earnings releases, accessed Aug
 **Rubrik, Inc. (NASDAQ: RBRK)**
 - [Form 10-K, fiscal year ended 31 January 2026](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000013/rbrk-20260131.htm): income statement, competition section, risk factors, revenue recognition, business description
 - [Form 10-K, fiscal year ended 31 January 2025](https://www.sec.gov/Archives/edgar/data/1943896/000194389625000012/rbrk-20250131.htm): prior-year comparatives
-- [Form 10-Q, quarter ended 30 April 2026 (Q1 FY2027)](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000047/rbrk-20260430.htm): quarterly revenue, remaining performance obligations, geographic and concentration disclosure
-- [Q4 and full year fiscal 2026 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000004/rubrikinc-991pressrelease1.htm): exit subscription ARR, material rights quantification, FY2027 guidance
-- [Q4 and full year fiscal 2025 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389625000006/rubrikinc-991pressrelease1.htm): FY2024 and FY2025 exit subscription ARR, used to derive the decay factor
+- [Form 10-Q, quarter ended 30 April 2026 (Q1 FY27)](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000047/rbrk-20260430.htm): quarterly revenue, remaining performance obligations, geographic and concentration disclosure
+- [Q4 and full year fiscal 2026 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000004/rubrikinc-991pressrelease1.htm): exit subscription ARR, material rights quantification, FY27 guidance
+- [Q4 and full year fiscal 2025 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389625000006/rubrikinc-991pressrelease1.htm): FY24 and FY25 exit subscription ARR, used to derive the decay factor
 
 **Varonis Systems, Inc. (NASDAQ: VRNS)**
 - [Form 10-K, fiscal year ended 31 December 2025](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001361113/000162828026005450/vrns-20251231.htm): revenue history, remaining performance obligations, geographic split
 - [Form 10-K, fiscal year ended 31 December 2024](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001361113/000162828025004187/vrns-20241231.htm): prior-year comparatives, market context
 - [Form 10-Q, quarter ended 31 March 2026](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001361113/000162828026028411/vrns-20260331.htm)
 - [Form 10-Q, quarter ended 30 June 2026](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001361113/000162828026050630/vrns-20260630.htm): revenue line splits, remaining performance obligations, acquisitions
-- [Q2 2026 results](https://www.sec.gov/Archives/edgar/data/1361113/000117184326004948/exh_991.htm): SaaS ARR, growth excluding conversions, FY2026 guidance
+- [Q2 2026 results](https://www.sec.gov/Archives/edgar/data/1361113/000117184326004948/exh_991.htm): SaaS ARR, growth excluding conversions, FY26 guidance
 
 **Commvault Systems, Inc. (NASDAQ: CVLT)**
 - [Form 10-K, fiscal year ended 31 March 2026](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001169561/000116956126000017/cvlt-20260331.htm): revenue by region, competition section, risk factors
-- [Q4 and full year fiscal 2026 results](https://www.sec.gov/Archives/edgar/data/1169561/000116956126000013/q4fy26pressrelease.htm): FY2027 guidance
+- [Q4 and full year fiscal 2026 results](https://www.sec.gov/Archives/edgar/data/1169561/000116956126000013/q4fy26pressrelease.htm): FY27 guidance
 
 **Market sizing**
 - [Mordor Intelligence, Data Security Market](https://www.mordorintelligence.com/industry-reports/data-security-market)
