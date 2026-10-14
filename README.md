@@ -388,4 +388,17 @@ All figures sourced from SEC filings and company earnings releases, accessed Aug
 **Market sizing**
 - [Mordor Intelligence, Data Security Market](https://www.mordorintelligence.com/industry-reports/data-security-market)
 
+## Additional Sources
+
+**Rubrik vs Varonis comparison (additional sources)**
+- [Rubrik Q3 fiscal 2026 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389625000050/rubrikinc-991pressrelease1.htm): Q3 guidance beat, first quarter of non-GAAP operating profit
+- [Rubrik Q1 fiscal 2027 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0001943896/000194389626000041/rubrikinc-991pressrelease4.htm): Q1 actuals, first FY27 guidance raise
+- [Rubrik Q2 fiscal 2027 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1943896/000194389626000055/rbrk-20260826.htm): Q2 actuals, second FY27 guidance raise
+- [Rubrik 2026 proxy statement (DEF 14A)](https://www.sec.gov/ix?doc=/Archives/edgar/data/1001250/000110465924101259/tm2421000-2_def14a.htm): CEO option grant and executive pay
+- [Varonis Q3 2025 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1361113/000117184325006721/exh_991.htm): Q3 revenue shortfall
+- [Varonis Q4 2025 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/1361113/000117184326000602/exh_991.htm): 2025 free cash flow, initial FY2026 guidance
+- [Varonis Q1 2026 results (8-K Exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0001361113/000117184326002774/exh_991.htm): Q1 actuals, FY26 guidance
+- [Varonis 2026 proxy statement (DEF 14A)](https://www.sec.gov/Archives/edgar/data/1361113/000114036126015263/ny20065926x1_def14a.htm): CEO pay, pay versus performance
+- Molchanov v. Varonis Systems, Inc. (securities class action, filed January 2026)
+
 **Which figures come from where.** Revenue, remaining performance obligations, segment and geographic splits, customer concentration, competition disclosure, and risk factors are from SEC filings. Annual recurring revenue, net revenue retention, material rights quantification, and forward guidance are company-defined measures disclosed in earnings releases rather than filings.
